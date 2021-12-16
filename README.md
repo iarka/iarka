@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/iarka/iarka/blob/main/hi.gif" width="40px" />, I'm Corentin Moutoucarpin</h1>
+<h1 align="center">Hi <img src="https://github.com/iarka/iarka/blob/main/hi.gif" width="40px" />, I'm Corentin</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iarka&color=brightgreen" alt="watching_count" />

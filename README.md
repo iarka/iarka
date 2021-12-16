@@ -25,3 +25,7 @@
 
 <h2> Connect with me <img src='https://github.com/iarka/iarka/blob/main/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/corentin-moutoucarpin'> <img width = '32px' align= 'center' src="https://github.com/iarka/iarka/blob/main/linkedin.svg"/></a> 
+
+<h2> Github stats </h2>
+
+![Github Stars](https://github-readme-stats.vercel.app/api?username=iarka&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)

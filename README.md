@@ -19,4 +19,6 @@
 - ⚡ Fun fact: I like cooking.
 
 <h2> Skills <img src = "https://github.com/iarka/iarka/blob/main/skills.gif" width = 32px> </h2>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
+<a href=""><img width ='32px' src ='https://github.com/iarka/iarka/blob/main/php.svg'></a>
+<a href=""><img width ='32px' src ='https://github.com/iarka/iarka/blob/main/laravel.svg'></a>
+<a href=""><img width ='32px' src ='https://github.com/iarka/iarka/blob/main/python.svg'></a>

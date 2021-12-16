@@ -10,7 +10,7 @@
 
 <h2> About Me</h2>
 
-<img width="20%" align="right" alt="Github" src="https://github.com/iarka/iarka/blob/main/undraw_profile.svg" />
+<img width="15%" align="right" alt="Github" src="https://github.com/iarka/iarka/blob/main/undraw_profile.svg" />
 
 - 🔭 I’m currently working on RaptorMarket
   

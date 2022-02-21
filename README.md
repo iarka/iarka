@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iarka&color=brightgreen" alt="watching_count" />
-  <img src="https://img.shields.io/badge/Age-23-blue" />
+  <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-Php, Laravel, Python, React Native-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-France-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20French-brightgreen" />

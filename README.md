@@ -12,9 +12,9 @@
 
 <img width="15%" align="right" alt="Github" src="https://github.com/iarka/iarka/blob/main/undraw_profile.svg" />
 
-- 🔭 I’m currently working on RaptorMarket
+- 🔭 I’m currently working on React (Nextjs) & Amplify
   
-- 🌱 I’m currently learning Python & React Native
+- 🌱 I’m currently learning Python, React Native & React with his framework Nextjs
   
 - ⚡ Fun fact: I like cooking.
 

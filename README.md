@@ -19,10 +19,10 @@
 - ⚡ Fun fact: I like cooking for me, my family and friends, in love with all asian food
 
 <h2> Skills <img src = "https://github.com/iarka/iarka/blob/main/skills.gif" width = 32px> </h2>
+<a href=""><img width ='32px' src ='https://github.com/iarka/iarka/blob/main/React-icon.svg.png'></a>
 <a href=""><img width ='32px' src ='https://github.com/iarka/iarka/blob/main/php.svg'></a>
 <a href=""><img width ='32px' src ='https://github.com/iarka/iarka/blob/main/laravel.svg'></a>
 <a href=""><img width ='32px' src ='https://github.com/iarka/iarka/blob/main/python.svg'></a>
-<a href=""><img width ='32px' src ='https://github.com/iarka/iarka/blob/main/React-icon.svg.png'></a>
 
 
 <h2> Connect with me <img src='https://github.com/iarka/iarka/blob/main/handshake.gif' width="100px"> </h2>

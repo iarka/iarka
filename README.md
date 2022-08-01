@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iarka&color=brightgreen" alt="watching_count" />
   <img src="https://img.shields.io/badge/Age-24-blue" />
-  <img src="https://img.shields.io/badge/Focus-Laravel, Python, React, Amplify-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-React, NextJS, Laravel, Python, AWS-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-France-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20French-brightgreen" />
 </p>
@@ -12,11 +12,11 @@
 
 <img width="15%" align="right" alt="Github" src="https://github.com/iarka/iarka/blob/main/undraw_profile.svg" />
 
-- 🔭 I’m currently working on React (Nextjs) & Amplify
+- 🔭 I’m currently working for Abbeal as fullstack JS developper
   
-- 🌱 I’m currently learning Python, React Native & React with his framework Nextjs
+- 🌱 I’m currently learning React with NextJS and TypeScript
   
-- ⚡ Fun fact: I like cooking.
+- ⚡ Fun fact: I like cooking for me, my family and friends, in love with all asian food
 
 <h2> Skills <img src = "https://github.com/iarka/iarka/blob/main/skills.gif" width = 32px> </h2>
 <a href=""><img width ='32px' src ='https://github.com/iarka/iarka/blob/main/php.svg'></a>

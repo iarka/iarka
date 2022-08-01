@@ -22,6 +22,8 @@
 <a href=""><img width ='32px' src ='https://github.com/iarka/iarka/blob/main/php.svg'></a>
 <a href=""><img width ='32px' src ='https://github.com/iarka/iarka/blob/main/laravel.svg'></a>
 <a href=""><img width ='32px' src ='https://github.com/iarka/iarka/blob/main/python.svg'></a>
+<a href=""><img width ='32px' src ='https://github.com/iarka/iarka/blob/main/React-icon.svg.png'></a>
+
 
 <h2> Connect with me <img src='https://github.com/iarka/iarka/blob/main/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/corentin-moutoucarpin'> <img width = '32px' align= 'center' src="https://github.com/iarka/iarka/blob/main/linkedin.svg"/></a> 

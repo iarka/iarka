@@ -12,7 +12,7 @@
 
 <img width="15%" align="right" alt="Github" src="https://github.com/iarka/iarka/blob/main/undraw_profile.svg" />
 
-- 🔭 I’m currently working for Abbeal as fullstack JS developper
+- 🔭 I’m currently working for Étimoc as fullstack developper
   
 - 🌱 I’m currently learning React with NextJS and TypeScript
   
